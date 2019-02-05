@@ -1,0 +1,1 @@
+var a=document.getElementById("p1").innerText="Hello JavaScript";
